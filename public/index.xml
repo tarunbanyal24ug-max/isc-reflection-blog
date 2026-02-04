@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://tarunbanyal24ug-max.github.io/isc-reflection-blog/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Feb 2026 12:51:44 +0530</lastBuildDate>
+    <atom:link href="https://tarunbanyal24ug-max.github.io/isc-reflection-blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://tarunbanyal24ug-max.github.io/isc-reflection-blog/posts/my-first-post/</link>
+      <pubDate>Wed, 04 Feb 2026 12:51:44 +0530</pubDate>
+      <guid>https://tarunbanyal24ug-max.github.io/isc-reflection-blog/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Hi my name is Tarun i am an Information Science major. This blog is part of our coursework where I will be reflecting on classroom discussions and learning experiences.&lt;/p&gt;&#xA;&lt;p&gt;This post serves as an introduction to my reflection journal created using Hugo.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
