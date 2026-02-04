@@ -2,3 +2,6 @@ baseURL = 'https://tarunbanyal24ug-max.github.io/isc-reflection-blog/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
+
+relativeURLs = true
+canonifyURLs = true
